@@ -1,0 +1,11 @@
+{
+  "language": "csharp",
+  "os": [
+    "linux",
+    "osx"
+  ],
+  "dist": "focal",
+  "dotnet": [
+    "5.0"
+  ]
+}
